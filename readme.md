@@ -26,10 +26,17 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
-  cd smartfit-frontend-challenge
-
+  git clone https://github.com/raa-russo/divulgar_emprego.git
+  
 ```
+2. Inicie a aplicação
+
+```bash
+  npm run dev
+```
+
+## Licença
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
 
 - Imagem principal do site.
 ![image](https://github.com/raa-russo/divulgar_emprego/assets/101585738/2115b95e-2c9c-4314-bbab-46b977d6db2b)
