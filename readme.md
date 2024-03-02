@@ -1,12 +1,35 @@
-** Projeto proficiencia em programação web **
+# Projeto proficiencia em programação web
 
-* trabalho para servir como proficiencia na materia de programacao web - professor Douglas
-* plataforma de busca e divulgacao de empregos
-* desenvolvida em node, express, sequelize, handlebars e mysqlite
+Este repositório contém um trabalho para servir como proficiencia na materia de programacao web - professor Douglas
+
+## 📖 Sobre o projeto
+
+Foi desenvolvido um mini site onde se pode divulgar vagas de empregos assim como se pode buscar pelas vagas de emprego, facilitando o encontro de quem procura com quem precisa.
+
+Neste projeto, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
+
+[x] desenvolvida em node, 
+[x] express, 
+[x] sequelize, 
+[x] handlebars,
+[x] mysqlite
+
+## ⚙️ Como Executar
+
 * para rodar o projeto - nodemon para rodar com servidor local 
-* para rodar o projeto - npm run dev para rodar sem servidor local
+* para rodar o projeto - npm run dev para rodar tbm com servidor local
 * front end esta no [localhost porta 3000](http://localhost:3000/)
 * db sqlite - salvando somente enqto o sistema esta rodando localmente.
+
+Para executar a aplicação localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+
+```bash
+  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
+  cd smartfit-frontend-challenge
+
+```
 
 - Imagem principal do site.
 ![image](https://github.com/raa-russo/divulgar_emprego/assets/101585738/2115b95e-2c9c-4314-bbab-46b977d6db2b)
