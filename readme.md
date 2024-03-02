@@ -16,11 +16,6 @@ Neste projeto, foi implementado as seguintes funcionalidades de acordo com as re
 
 ## ⚙️ Como Executar
 
-* para rodar o projeto - nodemon para rodar com servidor local 
-* para rodar o projeto - npm run dev para rodar tbm com servidor local
-* front end esta no [localhost porta 3000](http://localhost:3000/)
-* db sqlite - salvando somente enqto o sistema esta rodando localmente.
-
 Para executar a aplicação localmente, siga os passos abaixo:
 
 1. Clone este repositório:
@@ -33,6 +28,13 @@ Para executar a aplicação localmente, siga os passos abaixo:
 
 ```bash
   npm run dev
+ou
+  nodemon
+```
+3. Web
+
+```bash
+  front end esta no [localhost porta 3000](http://localhost:3000/)
 ```
 
 ## Licença
