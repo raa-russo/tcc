@@ -8,11 +8,11 @@ Foi desenvolvido um mini site onde se pode divulgar vagas de empregos assim como
 
 Neste projeto, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
 
-[x] desenvolvida em node, 
-[x] express, 
-[x] sequelize, 
-[x] handlebars,
-[x] mysqlite
+- [x] desenvolvida em node, 
+- [x] express, 
+- [x] sequelize, 
+- [x] handlebars,
+- [x] mysqlite
 
 ## ⚙️ Como Executar
 
