@@ -1,31 +1,31 @@
    <div id="add-form-container" class="container">
         <div class="row">
            <div class="col-md-12">
-                <h1 class="text-center">Divulgue a vaga preenchendo o formulario</h1>
+                <h1 class="text-center">Divulgue um servico preenchendo o formulario</h1>
            </div> 
            <div id="form-box" class="col-md-12">
-                <h2>Prencha os dados da melhor forma possivel para encontrar mais rapido o seu dev!</h2>
+                <h2>Prencha os dados da melhor forma possivel para melhor divulgar seus servicos!</h2>
                 <form action="/jobs/add" method="POST">
                     <div class="form-group">
-                        <label for="title">Título da vaga:</label>
-                        <input type="text" class="form-control" id="title" name="title" placeholder="Digite o título da vaga" required>
-                        <small id="titleHelp" class="form-text text-muted">O título é muito importane, seja claro e objetivo.</small>
+                        <label for="title">Título do servico:</label>
+                        <input type="text" class="form-control" id="title" name="title" placeholder="Digite o título do servico" required>
+                        <small id="titleHelp" class="form-text text-muted">O título é muito importante, seja claro e objetivo.</small>
                     </div>
                     <div class="form-group">
-                        <label for="description">Descrição da vaga:</label>
-                        <textarea type="text" class="form-control" id="description" name="description" placeholder="Descreva as atividades do desenvolvedor" required></textarea>                        
+                        <label for="description">Descrição do servico:</label>
+                        <textarea type="text" class="form-control" id="description" name="description" placeholder="Descreva o tipo do servico" required></textarea>                        
                     </div>
                     <div class="form-group">
-                        <label for="company">Empresa contratante:</label>
-                        <input type="text" class="form-control" id="company" name="company" placeholder="Empresa que vai contratar" required>                        
+                        <label for="company">Empresa divulgadora:</label>
+                        <input type="text" class="form-control" id="company" name="company" placeholder="Empresa que esta divulgando" required>                        
                     </div>
                     <div class="form-group">
-                        <label for="email">E-mail para contato:</label>
+                        <label for="email">E-mail para agendamento:</label>
                         <input type="email" class="form-control" id="email" name="email" placeholder="Digite seu melhor email" required>                        
                     </div>
                     <div class="form-group">
-                        <label for="salary">Salário oferecido:</label>
-                        <input type="text" class="form-control" id="salary" name="salary" placeholder="Digite o salário da vaga" required>                        
+                        <label for="salary">Valor do servico:</label>
+                        <input type="text" class="form-control" id="salary" name="salary" placeholder="Digite o valor do servico" required>                        
                     </div>
                     <input type="hidden" name="new-job" value="1">
                     <button type="submit" class="btn btn-primary">Enviar</button>
