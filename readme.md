@@ -1,10 +1,10 @@
 # Projeto proficiencia em programação web
 
-Este repositório contém um trabalho para servir como proficiencia na materia de programacao web - professor Douglas
+Este repositório contém um trabalho de tg2
 
 ## 📖 Sobre o projeto
 
-Foi desenvolvido um mini site onde se pode divulgar vagas de empregos assim como se pode buscar pelas vagas de emprego, facilitando o encontro de quem procura com quem precisa.
+Foi desenvolvido um mini site onde se pode divulgar servicos de beleza para facilitar a procura...
 
 Neste projeto, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
 
