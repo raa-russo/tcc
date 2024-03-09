@@ -196,7 +196,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/unha-mao.png);
+    background-image: url(/public/img/unha-mao.png);
     background-size: 100% 100%;
   }
 
@@ -213,7 +213,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/pe.png);
+    background-image: url(/public/img/pe.png);
     background-size: 100% 100%;
   }
 
@@ -230,7 +230,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/pe-mao.avif);
+    background-image: url(/public/img/pe-mao.avif);
     background-size: 100% 100%;
   }
 

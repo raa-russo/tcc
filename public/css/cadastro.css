@@ -85,7 +85,7 @@ a{
 .conteudo-esquerdo {
     width: 40%;
     height: 70%;
-    background-image: url(../imagens/mulher-que-limpa-a-cabeca-do-cliente-no-salao-de-beleza.jpg);
+    background-image: url(/public/img/mulher-que-limpa-a-cabeca-do-cliente-no-salao-de-beleza.jpg);
     background-size: 100% 100%; 
     border-radius: 5px;
     
@@ -137,7 +137,7 @@ a{
 .conteudo-direito {
     width: 40%;
     height: 70%;
-    background-image: url(../imagens/retrato-de-um-macho-hairstylist-olhando-camera.jpg);
+    background-image: url(/public/img/retrato-de-um-macho-hairstylist-olhando-camera.jpg);
     background-size: 100% 100%;
     border-radius: 5px;
     

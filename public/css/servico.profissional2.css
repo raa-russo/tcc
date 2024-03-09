@@ -196,7 +196,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/corte.png);
+    background-image: url(/public/img/corte.png);
     background-size: 100% 100%;
   }
 
@@ -213,7 +213,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/escova.jpg);
+    background-image: url(/public/img/escova.jpg);
     background-size: 100% 100%;
   }
 
@@ -230,7 +230,7 @@
     font-size: 24px;
     text-align: center;
     line-height: 300px;
-    background-image: url(../imagens/progressiva.jpg);
+    background-image: url(/public/img/progressiva.jpg);
     background-size: 100% 100%;
   }
 

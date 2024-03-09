@@ -22,7 +22,7 @@ a{
 
 
 body {
-    background-image: url(../imagens/mulher-secagem-cabelo-homem-barbeiro.jpg);
+    background-image: url(/public/img/mulher-secagem-cabelo-homem-barbeiro.jpg);
     background-size: 100% 100%;
 }
 

@@ -68,7 +68,7 @@ a{
 
 #imagem-fundo {
     height: 100vh;
-    background-image: url(../imagens/fundo-cadastro.png);
+    background-image: url(/public/img/fundo-cadastro.png);
     background-size: 100% 100%;
 }
 
