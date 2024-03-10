@@ -1,4 +1,4 @@
-# Projeto proficiencia em programação web
+# Projeto TCC - um site para divulgacao e busca de servicos
 
 Este repositório contém um trabalho de tg2
 
@@ -21,7 +21,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-  git clone https://tg2
+  git clone https://github.com/raa-russo/tcc.git
   
 ```
 2. Inicie a aplicação
