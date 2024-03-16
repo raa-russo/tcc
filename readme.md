@@ -27,7 +27,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 2. Inicie a aplicação
 
 ```bash
-  npm install  (parainstalar as dependencias)
+  npm install  (para instalar as dependencias)
     e depois
   npm run dev (para rodar o sistema)
 ```
