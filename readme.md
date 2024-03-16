@@ -27,9 +27,9 @@ Para executar a aplicação localmente, siga os passos abaixo:
 2. Inicie a aplicação
 
 ```bash
-  npm run dev
-ou
-  nodemon
+  npm install  (parainstalar as dependencias)
+    e depois
+  npm run dev (para rodar o sistema)
 ```
 3. Web
 
